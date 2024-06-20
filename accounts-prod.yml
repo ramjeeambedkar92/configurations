@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production2 APIs "
+  message: "Welcome to EazyBank accounts related production3 APIs "
   contactDetails:
     name: "{cipher}e23ea29df193b12d8eaffc4865e6c9adad9eaff06e14456d7bbca18a57a31e2e8acda97491d07a458f7d3573de7614e9"
     email: "{cipher}f998a005cb300797f1199595232f672f2667d703ba67ddddaff7ff73b8b871618ea35adda61c2ce91910219ee9b0be66"
